@@ -51,7 +51,7 @@ Deliberately excluded as project-specific:
 ## Process questions
 
 1. **`writing-method.md`** at the writing-projects root is now superseded by `method/`. Move it to an attic here, or delete it? I left it in place.
-2. **Git.** The tools directory is not a repository. The method says commit at the close of every sitting. Initialize one?
+2. ~~**Git.**~~ RULED September 10 2026: the directory is the `writing-tools` repository, committed and pushed.
 3. ~~**Pointers from projects.**~~ RULED September 10 2026: a *Shared tools and methods* section is now at the top of both projects' `CLAUDE.md` files. It makes the tools directory authoritative for method, tells sessions to correct stale conventions in the same sitting and log the migration in the handoff, forbids wholesale reorganization without a ruling, and lists each project's pending migration (Kestrel: re-tag the moment trove to the rubric; Reptile House: none). This also answers question 6 for `method/`.
 4. **The scope taxonomy.** *General / Fiction / Genre / Pattern / Series / Collaboration.* Is that the right set of labels, or would you rather a two-value split (general vs. this-setting-only)?
 5. **Granularity.** Some entries are one paragraph; the rug-pull file reproduces most of its source. If the file is meant to be loaded on demand, that is fine; if it is meant to be read through, several entries could be halved.

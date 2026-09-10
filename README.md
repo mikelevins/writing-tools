@@ -9,7 +9,7 @@ Everything here is a default. A project's constitution overrides it.
 Add one line to the project's `CLAUDE.md`:
 
 ```
-Shared writing tools and methods: /Users/mikel/repos/writing-projects/tools/README.md — load on demand; the index there names the file for each tool. This project's constitution overrides any default there.
+Shared writing tools and methods: /Users/mikel/repos/writing-projects/writing-tools/README.md — load on demand; the index there names the file for each tool. This project's constitution overrides any default there.
 ```
 
 Then load by task:
