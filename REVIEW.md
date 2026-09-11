@@ -36,7 +36,7 @@ Included as *Pattern* (project-specific instance, transferable shape). Cut any t
 
 Deliberately excluded as project-specific:
 
-- Book 1's cast-specific pitfalls (the Horned One, Blair, the almost-distilled, the identity abyss).
+- Book 1's cast-specific pitfalls (the Horned One, Rowan, the almost-distilled, the identity abyss).
 - Portal properties, signatures, and preferred field architecture.
 - The Continuity briefing content and the operational survival playbook.
 - The `.pages` extraction procedure and the ugrep note (the latter survives as a parenthetical).

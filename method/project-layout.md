@@ -72,7 +72,7 @@ Reptile House uses an older variant: per-book working directories (`47-details/`
 
 **How.** State precedence by question, not by file age. Reptile House's rule: the act files are authoritative for any event they contain a full entry for; the series reference is authoritative on world, character, metaphysics, and tone but not on Book 1 plot; the first-draft files are source material only, never authoritative over current files; everything in the attic is superseded. Kestrel's rule is simpler because the constitution exists: the constitution wins, then the beat series where staging conflicts with older triage, then the reference files. A superseded document gets a header saying so and what replaced it.
 
-**Origin.** Reptile House, March 2026 (the Blair-POV to Avery-POV transition made it necessary).
+**Origin.** Reptile House, March 2026 (the Rowan-POV to Avery-POV transition made it necessary).
 
 **Scope.** General.
 
