@@ -80,7 +80,7 @@ A pool of memorable moments held in reserve and consulted at the start of every 
 
 **When.** At blessing.
 
-**How.** A placed entry names the beat. An unplaced entry records only its constraints: who must be present, earliest point, register, and any budget it counts against ("counts against the budget of small early moments"). No candidate lists of possible placements. Recurring moments carry a cap ("three uses in the whole book, no more, or it becomes a tic").
+**How.** A placed entry names the beat. When a moment's gate depends on staging that no beat has fixed yet, fix the staging now — as a rostered beat, out of story order if need be — rather than defer it to the beat pass: deferring loses the dependency analysis the ruling just built and forces it to be rebuilt later (Kestrel, September 11 2026: the crew's first sight of the antagonist was staged as a beat six events past the frontier because a trove entry needed it). An unplaced entry records only its constraints: who must be present, earliest point, register, and any budget it counts against ("counts against the budget of small early moments"). No candidate lists of possible placements. Recurring moments carry a cap ("three uses in the whole book, no more, or it becomes a tic").
 
 **Origin.** Kestrel Book 4, September 8 2026.
 
