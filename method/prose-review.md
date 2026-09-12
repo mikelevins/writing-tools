@@ -119,6 +119,25 @@ Each note says what it affects. A section also carries a *Checked and fine* list
 
 ---
 
+### Variance from the outline is not presumed error
+
+**What.** Where the prose departs from the outline, **the departure is not automatically a defect and is never silently corrected.** The author improvises as he writes, responding to ideas and influences that appear only in the prose. The review's job is to *notice* the variance and *discuss* it — determine whether it was intended; if it was, work out the ramifications and change the outline to match.
+
+**When.** Every passed draft, at every scale — a staging detail, a beat's order, a character's decision, a chapter's shape, a fact the outline had settled.
+
+**How.** Raise it as a variance, not a finding: name what the outline had, name what the prose does, and ask nothing while he is drafting (the queue carries it as a statement — see *Never a question while drafting*). Three outcomes, and the author picks:
+- **Intended** — the outline is now wrong. Work out what else it touches (beats downstream, canon, other notes files, the presence audit if a beat moved) and re-sync the same sitting.
+- **Unintended** — then it is a correction, and it goes in the queue at its proper tier.
+- **Undecided** — hold it; do not fix it, do not re-raise it unprompted.
+
+Default posture when it is genuinely unclear: **assume intent.** The cost of asking about a deliberate choice is one line; the cost of quietly reverting one is a lost idea.
+
+**Origin.** Kestrel Book 4, September 12 2026 (mikel, at the opening of stage 4: *"do not automatically assume that a variance from the outline is an error that requires correction. Allow me the freedom to improvise as I write."*).
+
+**Scope.** General.
+
+---
+
 ### New canon from the prose is banked
 
 **What.** When the prose introduces a fact the reference layer does not have, the review's job is to bank it, not to flag it.
