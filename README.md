@@ -18,6 +18,7 @@ Then load by task:
 |---|---|
 | Setting up or reorganizing a project | `method/project-layout.md`, `method/outline-and-beats.md` |
 | Opening or closing a session; ruling canon | `method/sessions-and-rulings.md` |
+| Drafting a chapter or scene | `method/drafting.md` |
 | Receiving a draft | `method/prose-review.md` |
 | Building or consulting the pool of moments | `method/moment-trove.md` |
 | Scoring a moment, beat, or scene; deciding what a passage is for | `craft/rubric.md` |
@@ -97,6 +98,16 @@ Entries are written in plain language, readable on their own, in the same discip
 | The prose-time decisions log | General |
 | Standing warnings | General |
 | Persistent memory | Collaboration |
+
+### method/drafting.md
+
+| Entry | Scope |
+|---|---|
+| The chapter kernel | General |
+| The world enters through the transaction | Fiction |
+| Ventriloquized exposition | Fiction |
+| A fact belongs where someone has a reason to deliver it | Fiction |
+| A repetition that performs a different speech act is not a repetition | General |
 
 ### method/prose-review.md
 
