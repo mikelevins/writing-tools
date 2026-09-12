@@ -226,3 +226,31 @@ Navigation: `grep -n '^## ' outline.md` is the table of contents; `ls notes/` or
 **Origin.** Kestrel Book 4, August 25 2026.
 
 **Scope.** General.
+
+---
+
+### The viewer pass
+
+**What.** Once a beat set is complete, it is watched as a season of prestige television by a viewer who does not know the story, and assessed episode by episode: what pulls the viewer to the next hour, where it drags, what a first-time viewer cannot follow, and where the rubric can be raised. Then the findings are applied and the pass is rerun, until nothing structural remains.
+
+**When.** After the outline is complete and every proposal is ruled; before the prose. Rerun after each batch of corrections.
+
+**How.** Cut the beats into episodes and name each hour's curtain; a curtain that does not pull is a finding. Hold the naive perspective strictly: a name the viewer has never heard is a finding even if the returning reader knows it; a mechanism the viewer has not seen work is a finding even if the notes explain it. List drag (sequences with no antagonist action, sit-down revelations in a row, a curtain call after the climax), unfollowable references, and raises per register. Deliver as assessment only; the author accepts findings in bulk or with guidance, and the corrections are applied to the beats and the notes the same sitting. Save each pass as a dated file so the trajectory is visible. Kestrel's outline took five passes to clean; the fifth found nothing structural.
+
+**Origin.** Kestrel Book 4, September 11 2026 (the author's exercise).
+
+**Scope.** Fiction.
+
+---
+
+### The ownership audit
+
+**What.** Every action in every beat is checked for who owns it: the agent with the standing (office, ownership, jurisdiction) and the motive to do it, and whose consent it silently assumes.
+
+**When.** After a reconstruction or a large batch of beat changes; before the prose; whenever a beat reads as plot-driven.
+
+**How.** For each action: who does it; is it theirs to do; would this person do it; whose consent does it require and is that consent on the page. Findings are usually wording (a ship "has already begun" a revival that is the master's to order; a subordinate "sends" a superior; guests moved on someone else's ground without the host's word) and are corrected in place; a substantive finding (an act wrongly owned by a character whose constitution forbids it) goes to the author for ruling and often improves the mechanism (Kestrel: an arms shipment re-owned from a commander's introductions to a host's treaty clearance). Companion to the presence audit; the two are run together.
+
+**Origin.** Kestrel Book 4, September 11 2026 (the author's instruction after the first viewer pass).
+
+**Scope.** General.
