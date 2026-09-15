@@ -81,6 +81,7 @@ Entries are written in plain language, readable on their own, in the same discip
 | Fair play for knowledge | General |
 | Ground nonhuman behavior in real-world references | Fiction |
 | The rhythm of a sequence is named | General |
+| Cutting a beat means closing its freight | General |
 | The viewer pass | Fiction |
 | The ownership audit | General |
 

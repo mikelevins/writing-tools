@@ -229,6 +229,32 @@ Navigation: `grep -n '^## ' outline.md` is the table of contents; `ls notes/` or
 
 ---
 
+### Cutting a beat means closing its freight
+
+**What.** When a beat is cut, the cut is not finished until **everything parked on that beat has been re-homed or closed.** A cut beat leaves orphaned freight — plants, payoffs, lines held for it, "available at X" notes elsewhere in the notes — pointing at a coordinate that no longer exists.
+
+**When.** Every time a beat is cut, folded, or retired. Immediately, in the same sitting.
+
+**How.** Before the cut is logged, grep the live tree for the beat's key and walk every hit. Each one gets one of three dispositions, written down where it sits:
+
+- **Re-homed** — it moves to a live beat, and that beat's notes say so.
+- **Delivered** — some other scene already pays it; say which, and close it.
+- **Dropped** — a deliberate loss, with the reason, so it is chosen rather than mislaid.
+
+Then record the cut itself in the owning notes file, as the project already does. **The check is mechanical and takes a minute:** `grep -rn "<key>" --include=*.md .` over the live tree (excluding the attic, which is the historical record and keeps the old pointers on purpose).
+
+**Why it matters more than it looks.** Orphaned freight does not sit inert; it **actively misinforms**. A pointer at a dead beat reads as live design to anyone — author or collaborator — who meets it later, and it will be built on. **The worked case:** Kestrel Book 4's `02/1 polite-man-at-hatch` was cut on 9/6 and correctly logged as cut in its own notes file — but a neighbouring file still parked two pieces of live freight there ("available at `02/1`, where the same demand is made courteously"). Six days later that orphan was read as current and produced a confidently wrong statement in a chapter plan — a scene premise built on a beat that had not existed for a week. It was caught only because the author knew the book. The freight itself turned out to have been **delivered** in a different chapter entirely, so the correct disposition cost one line; the cost of not doing it was a wrong plan and an argument.
+
+**Related failure, same root:** a **spec that the prose has superseded** is orphaned freight of another kind. When prose supersedes a beat, the beat's instructions want retiring in the same sitting, or a later pass reads them as outstanding.
+
+**Origin.** Kestrel Book 4, September 2026 — three stale pointers in one week (`02/1`'s freight; a heading still carrying a retired mechanism at `02/2.5`; a superseded instruction to cut a portrait that the entry-portrait ruling had already overridden).
+
+**Scope.** General.
+
+**See also.** *Drift control (the sync check)*, above; *Decisions are folded in as they are made*, `project-layout.md`; *Prose supersedes beats*.
+
+---
+
 ### The viewer pass
 
 **What.** Once a beat set is complete, it is watched as a season of prestige television by a viewer who does not know the story, and assessed episode by episode: what pulls the viewer to the next hour, where it drags, what a first-time viewer cannot follow, and where the rubric can be raised. Then the findings are applied and the pass is rerun, until nothing structural remains.
