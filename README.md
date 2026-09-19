@@ -109,6 +109,7 @@ Entries are written in plain language, readable on their own, in the same discip
 | Ventriloquized exposition | Fiction |
 | A fact belongs where someone has a reason to deliver it | Fiction |
 | A repetition that performs a different speech act is not a repetition | General |
+| A running order is written from, so every step is self-contained | Collaboration |
 
 ### method/prose-review.md
 

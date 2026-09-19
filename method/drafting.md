@@ -105,3 +105,19 @@ The practical half is usually decisive as well. Replacing the restatement with a
 **Scope.** General.
 
 **See also.** *Ventriloquized exposition* and *A fact belongs where someone has a reason to deliver it*, above.
+
+---
+
+### A running order is written from, so every step is self-contained
+
+**What.** The running order in a chapter plan is the document the author drafts from, start to finish, without leaving it. Every step states **what happens, who does it, and — wherever it bears on the step — why** (motive and context), in full sentences, succinctly. No step refers the writer elsewhere for its own content.
+
+**When.** Writing or amending a chapter plan's running order, or any list the author will draft from. Also whenever a running order is *updated*: rulings folded in as pointers ("see the boxed statement," "per the MOTIVES section") are the usual way this rule gets broken.
+
+**How.** Each step answers, inline: what happens; who; why, if motive or context matters to writing it; and any guard (what must not happen, and why). **Forbidden inside a step:** a pointer in place of content — "see above," "trove S2," "the splinter," "topics 1 and 2," a ruling's date without the ruling's substance. Provenance may stay as a brief bracket *after* the content. If the content lives elsewhere in the plan, copy it into the step: duplication inside an ephemeral plan costs nothing, and a lookup costs immersion. The rest of the plan — kernel, step-by-step, provenance — may be as cross-referenced as it likes; the running order may not. **The test:** read the running order alone with the rest of the file covered; if any step makes you want to look something up, it fails.
+
+**Origin.** Kestrel Book 4, September 19 2026 — mikel, after the chapter 6 running order had been brought up to date with a day's rulings by pointers. His words: "many of the steps in the running order are too elliptical to write from… when I'm writing I have to break immersion to look up what is meant. Each step should say exactly what happens and, when motivation and context are important to the step, they should be given explicitly (but succinctly)." He noted it was not the first time he had asked, and made it a rule.
+
+**Scope.** General to this collaboration.
+
+**See also.** *The chapter kernel*, above; *Beat paragraphs are compressions, not stage directions*, `outline-and-beats.md` (the outline's register is the opposite one — compressed — and that is correct there; the running order is where compression stops).
