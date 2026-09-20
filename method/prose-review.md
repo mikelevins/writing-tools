@@ -133,7 +133,9 @@ Each note says what it affects. A section also carries a *Checked and fine* list
 
 Default posture when it is genuinely unclear: **assume intent.** The cost of asking about a deliberate choice is one line; the cost of quietly reverting one is a lost idea.
 
-**Origin.** Kestrel Book 4, September 12 2026 (mikel, at the opening of stage 4: *"do not automatically assume that a variance from the outline is an error that requires correction. Allow me the freedom to improvise as I write."*).
+**Scale changes pass without comment (refinement, September 20 2026).** A plan's one line becoming a beat in the prose, or a beat compressing to a line, is the ordinary work of drafting to the found rhythm of the scene, and is not a variance worth a queue entry in itself. Let it pass. The exception is instrumental: if remarking on the change is the only way to be sure a mistake or a significant omission has not ridden in with it — a guard the line carried that the beat now breaks, a fact the expansion asserts against canon, a plant the compression dropped — then say so, briefly, and only about the mistake or the omission. Re-sync the plan and the concordance to the prose silently; that is bookkeeping, not comment.
+
+**Origin.** Kestrel Book 4, September 12 2026 (mikel, at the opening of stage 4: *"do not automatically assume that a variance from the outline is an error that requires correction. Allow me the freedom to improvise as I write."*). Refined September 20 2026, after a one-line trove moment was drafted as a full exchange and the review logged the expansion: *"My expansion from a line to a beat is typical of the changes I will make in drafting in service of the found rhythm of the scene. You can safely let such changes pass without comment (but not at the expense of accepting mistakes; if you need to remark on these changes in order to be sure of catching mistakes and significant omissions, go ahead)."*
 
 **Scope.** General.
 
