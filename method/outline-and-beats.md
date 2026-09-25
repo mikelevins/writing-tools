@@ -89,6 +89,20 @@ Navigation: `grep -n '^## ' outline.md` is the table of contents; `ls notes/` or
 
 ---
 
+### Plain language, no shorthand
+
+**What.** Every outline heading and beat paragraph is readable by someone holding only the outline.
+
+**When.** Writing a beat in; revising one; summarizing beats to the author.
+
+**How.** No coined labels, planning shorthand, abbreviations, or references that need the notes file or the conversation to decode. Name things plainly, and explain a setting term (a part of a ship, an institution, a device) the first time it appears. Before a beat is written in, reread its heading and paragraph as a stranger would and strip every piece of shorthand; that reread is part of closing the beat. Examples caught in practice: *the watch* (for how the guard was posted), *the wall* (for the display showing a caller), *the door* (for the offer to leave), *the feed* (for the flow of instructions), *Team Yaug* (for a character's loyalty). Shorthand slows the work and buys nothing. The moment trove's writing rule is the same standard applied to its entries.
+
+**Origin.** Kestrel Book 4, September 25 2026. The author had to stop and ask what an outline line meant.
+
+**Scope.** General.
+
+---
+
 ### The event format
 
 **What.** Each event in an act file is a compressed narrative summary in running prose, followed by a fixed set of tracking bullets.
