@@ -95,7 +95,7 @@ Navigation: `grep -n '^## ' outline.md` is the table of contents; `ls notes/` or
 
 **When.** Writing a beat in; revising one.
 
-**How.** The heading's *what happens* is a single plain summary of the main thing that happens (*a staged emergency covers a failed attempt to steal the archive*), never several events run together into one long fragment. The body lists the beat's actions or movements in story order, one per numbered item, with sub-bullets where several people react at once; never a single block of prose, which is hard to scan and hard to read as a sequence. Each item is still plain language (see below) and still what happens, not stage direction.
+**How.** The heading's *what happens* is a single plain summary of the main thing that happens (*a staged emergency covers a failed attempt to steal the archive*), never several events run together into one long fragment. The body lists the beat's actions or movements in **chronological order**, one per numbered item (actions happening at the same time are marked *Meanwhile*, so the numbering never lies about sequence), with sub-bullets where several people react at once; never a single block of prose, which is hard to scan and hard to read as a sequence. Each item is still plain language (see below) and still what happens, not stage direction.
 
 **Origin.** Kestrel Book 4, September 25 2026. The author found run-on headings and block paragraphs unreadable.
 
