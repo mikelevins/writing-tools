@@ -110,6 +110,34 @@ Why the settlement sitting was retired: beat work generates and revises canon re
 
 ---
 
+### Recalled canon is soft canon
+
+**What.** When the author lays out setting principles or history from memory, treat what he says as *soft canon*: intended as canon, but fallible, because he is recalling rather than consulting. A contradiction between what he recalls and what the documents hold means one side is probably a mistake, and either side may be the one.
+
+**When.** Worldbuilding pauses, and any time the author says he is mining his memory.
+
+**How.** Reason along with him as he goes; he will not present it in rigorous order, and no hard boundary is needed between taking it in and applying it. When something conflicts with held canon (or with itself), say so plainly, cite the file and section where the held version lives, set the two side by side, and patch it up together. Bank what is settled in the owning file as canon, noting that it was recalled from memory where a later patch might need to know.
+
+**Origin.** Kestrel Book 4, October 5 2026 (the worldbuilding of the Jovian Consular Estate's history and garrison).
+
+**Scope.** General.
+
+---
+
+### Check the typo before flagging a contradiction
+
+**What.** The author types fast. Before reporting that something he wrote contradicts canon, read any garbled word as the likeliest intended word, and check whether that reading removes the contradiction.
+
+**When.** Whenever his words, read literally, seem to conflict with the documents.
+
+**How.** If a plausible typo reading agrees with canon, take that reading and move on; flag only what survives it. More generally, ask what the words strictly entail, not what they might suggest: weaker or idiomatic wording that is compatible with canon is not an error.
+
+**Origin.** Kestrel Book 4: "knew of" and "spent the week" (October 3–4 2026), and "pat the peak," meaning *past* the peak, misread as "at the peak" (October 5 2026).
+
+**Scope.** General.
+
+---
+
 ### The prose-time decisions log
 
 **What.** While the author drafts between sittings, decisions settled at the keyboard are logged one line each in the handoff, for folding into the notes files at the next sitting.

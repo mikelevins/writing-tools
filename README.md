@@ -96,6 +96,8 @@ Entries are written in plain language, readable on their own, in the same discip
 | Ask rather than confabulate | General |
 | Rulings are logged and dropped | General |
 | Pause for worldbuilding on demand | General |
+| Recalled canon is soft canon | General |
+| Check the typo before flagging a contradiction | General |
 | The prose-time decisions log | General |
 | Standing warnings | General |
 | Persistent memory | Collaboration |
