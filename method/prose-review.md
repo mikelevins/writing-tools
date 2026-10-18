@@ -20,7 +20,7 @@ How drafts are received, what is said in chat, what goes into the queue, and the
 
 ### The feel read
 
-**What.** What it is like to be in the scene: mood; whether anyone stepped out of character; where the prose has gone clunky.
+**What.** What it is like to be in the scene: mood; whether anyone stepped out of character; where the prose has gone clunky. Also an impression of **how well it invites the reader to keep reading** (author, 10/16): whether the opening paragraphs of the chapter, and of the book, hook the reader, and whether the chapter's ending keeps curiosity and momentum.
 
 **When.** Every passed draft, in chat, immediately.
 
@@ -122,22 +122,27 @@ Each note says what it affects. A section also carries a *Checked and fine* list
 
 ---
 
-### Variance from the outline is not presumed error
+### Variance from the outline: the prose wins, the review re-syncs
 
-**What.** Where the prose departs from the outline, **the departure is not automatically a defect and is never silently corrected.** The author improvises as he writes, responding to ideas and influences that appear only in the prose. The review's job is to *notice* the variance and *discuss* it — determine whether it was intended; if it was, work out the ramifications and change the outline to match.
+**What.** Where the prose departs from the outline, **the prose wins by default.** The author writes to the feel of the scene as he writes it, often implying what the outline makes explicit or changing it because the change works better, so departures are the normal case, not the exception. The review **brings the outline into line with the prose itself** and raises an item only when a change has consequences beyond itself. It never stops noticing differences, because some of them are mistakes.
 
 **When.** Every passed draft, at every scale — a staging detail, a beat's order, a character's decision, a chapter's shape, a fact the outline had settled.
 
-**How.** Raise it as a variance, not a finding: name what the outline had, name what the prose does, and ask nothing while he is drafting (the queue carries it as a statement — see *Never a question while drafting*). Three outcomes, and the author picks:
-- **Intended** — the outline is now wrong. Work out what else it touches (beats downstream, canon, other notes files, the presence audit if a beat moved) and re-sync the same sitting.
-- **Unintended** — then it is a correction, and it goes in the queue at its proper tier.
-- **Undecided** — hold it; do not fix it, do not re-raise it unprompted.
+**How.**
+1. **Re-sync without asking.** Update the outline to match the prose, and add one line per change to an *Outline re-synced* list in the queue under that chapter (e.g. "beat 2: Kestrel now alerts all hands"). The author glances down the list when he edits; a line describing something he did not mean is a caught mistake. Otherwise nothing needs his ruling.
+2. **Check for indirection before calling it a variance.** The author often carries a beat's purpose by an indirect route. Before recording a change as a difference of substance, check whether the prose carries the beat's purpose another way. If specific text can be pointed to, record it in the re-sync list as a reading to confirm, naming the text (e.g. "beat 1: Lev's worry about her scaffolding is carried indirectly, through the robbery talk and his 'how you feel now'"). If nothing specific can be pointed to, report the difference plainly. **Never invent an indirection to explain a difference away.**
+3. **Raise an item only when a change has consequences:**
+   - a later beat depends on what changed;
+   - something a later beat needs is no longer set up on the page;
+   - it contradicts canon or an earlier chapter;
+   - a reader would be confused.
+4. **State consequences, not discrepancies.** Write "beat 8 depends on Angela being in the clinic; with her gone, it becomes…", not "the outline says X; the prose does Y." Ask nothing while he is drafting (see *Never a question while drafting*). The author rules: **intended** — work out what else it touches (downstream beats, canon, notes, the presence audit if a beat moved) and re-sync the same sitting; **unintended** — it is a correction, at its proper tier; **undecided** — hold it, do not fix it, do not re-raise it unprompted.
 
-Default posture when it is genuinely unclear: **assume intent.** The cost of asking about a deliberate choice is one line; the cost of quietly reverting one is a lost idea.
+Default posture when it is genuinely unclear: **assume intent.** The cost of a re-sync line about a deliberate choice is a glance; the cost of quietly reverting one is a lost idea.
 
 **Scale changes pass without comment (refinement, September 20 2026).** A plan's one line becoming a beat in the prose, or a beat compressing to a line, is the ordinary work of drafting to the found rhythm of the scene, and is not a variance worth a queue entry in itself. Let it pass. The exception is instrumental: if remarking on the change is the only way to be sure a mistake or a significant omission has not ridden in with it — a guard the line carried that the beat now breaks, a fact the expansion asserts against canon, a plant the compression dropped — then say so, briefly, and only about the mistake or the omission. Re-sync the plan and the concordance to the prose silently; that is bookkeeping, not comment.
 
-**Origin.** Kestrel Book 4, September 12 2026 (mikel, at the opening of stage 4: *"do not automatically assume that a variance from the outline is an error that requires correction. Allow me the freedom to improvise as I write."*). Refined September 20 2026, after a one-line trove moment was drafted as a full exchange and the review logged the expansion: *"My expansion from a line to a beat is typical of the changes I will make in drafting in service of the found rhythm of the scene. You can safely let such changes pass without comment (but not at the expense of accepting mistakes; if you need to remark on these changes in order to be sure of catching mistakes and significant omissions, go ahead)."*
+**Origin.** Kestrel Book 4, September 12 2026 (mikel, at the opening of stage 4: *"do not automatically assume that a variance from the outline is an error that requires correction. Allow me the freedom to improvise as I write."*). Refined September 20 2026, after a one-line trove moment was drafted as a full exchange and the review logged the expansion: *"My expansion from a line to a beat is typical of the changes I will make in drafting in service of the found rhythm of the scene. You can safely let such changes pass without comment (but not at the expense of accepting mistakes; if you need to remark on these changes in order to be sure of catching mistakes and significant omissions, go ahead)."* Revised October 16 2026, after the chapter 1 review itemized four variances that were all intended: *"in general you should expect me to change the prose away from what the accepted outline says because I will write in response to the feel of the scene as I write it, and I will often choose to imply things that the outline makes explicit, or to change things in ways that I think work better… But sometimes the variances will be mistakes that need correction."* The indirection step comes from the same review, where Lev's worry about Angela was carried through a gentle talk about another robbery and the review read it as a change of subject: *"I would not want you to acquire a habit of confabulating imagined indirections, though… I don't want you to stop noticing variations in case something I do really is a mistake."*
 
 **Scope.** General.
 
