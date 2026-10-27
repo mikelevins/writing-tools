@@ -16,7 +16,7 @@ How the story's skeleton is written, keyed, kept in sync, and derived beat by be
 ## <event>/<beat> <slug> — <what happens> [status]
 ```
 
-followed by one paragraph of what happens and nothing else: no derivations, dates, provenance, or cross-references. The author drafts from this. `notes/` holds one file per event, each beat's section headed with the same line minus the event prefix (`## 2 grail-interview — ...`), carrying derivation, canon and provenance, genre and fun notes, reread payoffs, seams to neighboring beats, and open decisions. A long event may span several notes files (`02`, `02.3`, `02.6`). Non-beat sections in a notes file use a heading without a leading digit. The heading line itself is a compressed summary of the beat's contents (its quoted lines, its turns), which is what makes `grep -n '^## ' outline.md` a usable table of contents.
+followed by *(since October 26 2026: a terse list of points to touch; see* Beats are points to touch*)* one paragraph of what happens and nothing else: no derivations, dates, provenance, or cross-references. The author drafts from this. `notes/` holds one file per event, each beat's section headed with the same line minus the event prefix (`## 2 grail-interview — ...`), carrying derivation, canon and provenance, genre and fun notes, reread payoffs, seams to neighboring beats, and open decisions. A long event may span several notes files (`02`, `02.3`, `02.6`). Non-beat sections in a notes file use a heading without a leading digit. The heading line itself is a compressed summary of the beat's contents (its quoted lines, its turns), which is what makes `grep -n '^## ' outline.md` a usable table of contents.
 
 **Origin.** Kestrel Book 4, ratified August 28 2026.
 
@@ -75,13 +75,30 @@ Navigation: `grep -n '^## ' outline.md` is the table of contents; `ls notes/` or
 
 ---
 
+### Beats are points to touch, not summaries
+
+**What.** An undrafted beat is a bold one-line gist followed by a terse bulleted list of the points the scene must make, and nothing else. A drafted beat keeps only its gist and where it was drafted; it is never rewritten as a summary of the prose.
+
+**When.** Writing or revising any beat the author will draft from; whenever prose arrives for a beat.
+
+**How.**
+- **Undrafted:** each bullet is one point the scene has to land (a fact the reader must get, a turn, a choice, an off-page cause the scene depends on, a line the author has already ruled). Plain and self-contained, so nothing needs looking up (see *Plain language, no shorthand*). No staging, no choreography, no paraphrased action, no invented dialogue. The test: the list should constrain the writing as little as possible while missing nothing that must be made.
+- **Drafted:** the prose is the record. Keep the gist and a pointer (*Drafted: chapter 2*). Don't re-sync the beat into a summary of what was written. Consequences for later beats are still raised in review (see `prose-review.md`, *Variance from the outline*).
+- Mechanics, derivation, reasons, and staging ideas go in the notes layer or nowhere. A chapter plan's checklist follows the same rule.
+
+**Origin.** Kestrel Book 4, October 26 2026. The author, reviewing re-synced summaries of chapters he had just rewritten: they read as "slavish summaries… a less engaging paraphrase" of the prose, so useless for review; and for unwritten beats the summary style over-constrains: *"If I go into writing it with that kind of summary as guidance then I'm not really writing the story; I'm paraphrasing the summary… then I'm editing rather than writing, and good prose requires me to be writing. When writing I need reminders of the main points I need to touch and absolutely nothing else, so that I can inhabit the characters and setting in my imagination."*
+
+**Scope.** General. Supersedes the beat-body form in *The two-layer outline* and *Scannable beats*, and the re-sync step in *Beat paragraphs are compressions*.
+
+---
+
 ### Beat paragraphs are compressions, not stage directions
 
 **What.** A beat paragraph says what happens and what the beat must teach. It is a compression of the narrative, not an instruction to the prose.
 
 **When.** Writing beats; reviewing prose against beats.
 
-**How.** Staging, tone, and count prescriptions ("gripes the whole way across", "one beat", "optionally", "on the page") are stripped from outline paragraphs. The prose is not bound by a summary's staging. Prose feedback checks what a beat must carry (canon facts, setups later beats need, the beat's *freight*) and not how the summary staged it. For drafted beats, reason from the manuscript, not the outline, and re-sync the outline to the prose when rulings land; the outline paragraph may then say "(as drafted; the prose supersedes)".
+**How.** Staging, tone, and count prescriptions ("gripes the whole way across", "one beat", "optionally", "on the page") are stripped from outline paragraphs. The prose is not bound by a summary's staging. Prose feedback checks what a beat must carry (canon facts, setups later beats need, the beat's *freight*) and not how the summary staged it. For drafted beats, reason from the manuscript, not the outline. *(Superseded October 26 2026: drafted beats are not re-synced into summaries; they keep a gist and a pointer. See* Beats are points to touch*.)*
 
 **Origin.** Kestrel Book 4, August 30 2026 (the author's call while drafting the first beat).
 
@@ -91,7 +108,7 @@ Navigation: `grep -n '^## ' outline.md` is the table of contents; `ls notes/` or
 
 ### Scannable beats: a gist for the title, a list for the body
 
-**What.** A beat's heading carries a one-line gist; its body is a numbered list of actions in order.
+**What.** A beat's heading carries a one-line gist; its body is a numbered list of actions in order. *(Body superseded October 26 2026 by* Beats are points to touch*: bullets of points the scene must make, not a sequence of actions. The gist rule stands.)*
 
 **When.** Writing a beat in; revising one.
 
